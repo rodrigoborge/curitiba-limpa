@@ -1,32 +1,32 @@
 export const partners = [
-  {
-    name: "EcoVida Reciclagem",
-    description: "Especializada em reciclagem de plásticos e metais",
-    location: "Bairro CIC"
-  },
-  {
-    name: "Cooperativa Verde Futuro",
-    description: "Cooperativa de catadores e recicladores",
-    location: "Bairro Portão"
-  },
-  {
-    name: "Recicla Paraná",
-    description: "Reciclagem de papel e papelão",
-    location: "Bairro Boqueirão"
-  },
-  {
-    name: "Sustentável Solutions",
-    description: "Gestão de resíduos eletrônicos",
-    location: "Bairro Santa Cândida"
-  },
-  {
-    name: "União dos Recicladores",
-    description: "Rede de cooperativas de reciclagem",
-    location: "Bairro Pinheirinho"
-  },
-  {
-    name: "Eco Transformação",
-    description: "Reciclagem de vidros e materiais especiais",
-    location: "Bairro Água Verde"
-  }
+    {
+        name: 'CATAMARE',
+        description: 'Cooperativa de Catadores de Materiais Recicláveis',
+        location: 'Boqueirão',
+    },
+    {
+        name: 'SUCAPET',
+        description: 'Sucapet centro de reciclagem',
+        location: 'Cajuru',
+    },
+    {
+        name: 'ECOPAR',
+        description: 'Associação de catadores de materiais ECOPAR (Eco Cidadão)',
+        location: 'Parolin',
+    },
+    {
+        name: 'UNIDOS DO BAIRRO',
+        description: 'Associação de Catadores de Materiais Recicláveis Unidos do Bairro',
+        location: 'CIC',
+    },
+    {
+        name: 'CURITIBA MAIS LIMPA',
+        description: 'Associação de Catadores de Materiais Reciclaveis Curitiba Mais Limpa',
+        location: 'CIC',
+    },
+    {
+        name: 'ÁGUA NASCENTE',
+        description: 'Associação de Catadores de Materiais Recicláveis Água Nascente',
+        location: 'Boqueirão',
+    },
 ];
