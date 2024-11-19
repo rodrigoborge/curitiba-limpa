@@ -20,11 +20,8 @@ function App() {
               <div className='relative z-10 text-center px-4 max-w-4xl mx-auto'>
                   <h1 className='text-6xl md:text-8xl font-bold mb-8 tracking-tight'>Curitiba Limpa</h1>
                   <p className='text-xl md:text-3xl mb-12 leading-relaxed font-light'>Juntos por uma cidade mais sustentável e consciente</p>
-                  <Button variant='secondary' className='text-lg px-8 py-4'>
-                      Saiba Mais <ArrowRight className='ml-2 w-6 h-6' />
-                  </Button>
                   <a href='#sobre' className='animate-bounce inline-block mt-16'>
-                      <ChevronDown size={48} className='text-white/80' />
+                      <ChevronDown size={60} className='text-white/80' />
                   </a>
               </div>
           </header>
