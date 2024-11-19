@@ -5,6 +5,7 @@ import { Section } from './components/Section';
 import { Card } from './components/Card';
 import { SeparationGuide } from './components/SeparationGuide';
 import { partners } from './data/partners';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 function App() {
   const [showGuide, setShowGuide] = React.useState(false);
