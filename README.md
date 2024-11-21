@@ -1,6 +1,6 @@
 # Curitiba Limpa 🌿
 
-**Projeto desenvolvido por:** Rodrigo Borge ([GitHub: rodrigoborge](https://github.com/rodrigoborge))
+**Projeto desenvolvido por:** Rodrigo Borge
 
 **Matéria:** Atividades Extensionistas I - Tecnologia Aplicada à Inclusão Digital
 
