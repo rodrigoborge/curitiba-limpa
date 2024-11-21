@@ -20,7 +20,7 @@ function App() {
               <div className='absolute inset-0 mix-blend-multiply opacity-30 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-emerald-200 via-emerald-400 to-emerald-600'></div>
               <div className='relative z-10 text-center px-4 max-w-4xl mx-auto'>
                   <h1 className='text-6xl md:text-8xl font-bold mb-8 tracking-tight'>Curitiba Limpa</h1>
-                  <p className='text-xl md:text-3xl mb-12 leading-relaxed font-light'>Juntos por uma cidade mais sustentável e consciente</p>
+                  <p className='text-xl md:text-3xl mb-12 leading-relaxed font-light'>Transformando Curitiba com Educação Ambiental e Coleta Seletiva</p>
                   <a href='#sobre' className='animate-bounce inline-block mt-16'>
                       <ChevronDown size={60} className='text-white/80' />
                   </a>
