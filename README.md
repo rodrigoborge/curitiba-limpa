@@ -1,6 +1,7 @@
 # Curitiba Limpa 🌿
 
 **Projeto desenvolvido por:** Rodrigo Borge
+
 **Matéria:** Atividades Extensionistas I - Tecnologia Aplicada à Inclusão Digital
 
 **URL do site:** [https://curitiba-limpa.vercel.app/](https://curitiba-limpa.vercel.app/)
